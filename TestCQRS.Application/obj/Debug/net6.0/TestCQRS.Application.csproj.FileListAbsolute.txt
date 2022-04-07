@@ -1,0 +1,11 @@
+C:\Users\Álvaro Morales\Desktop\Develop\.Net\CQRS\TestCQRS\TestCQRS.Application\bin\Debug\net6.0\TestCQRS.Application.deps.json
+C:\Users\Álvaro Morales\Desktop\Develop\.Net\CQRS\TestCQRS\TestCQRS.Application\bin\Debug\net6.0\TestCQRS.Application.dll
+C:\Users\Álvaro Morales\Desktop\Develop\.Net\CQRS\TestCQRS\TestCQRS.Application\bin\Debug\net6.0\ref\TestCQRS.Application.dll
+C:\Users\Álvaro Morales\Desktop\Develop\.Net\CQRS\TestCQRS\TestCQRS.Application\bin\Debug\net6.0\TestCQRS.Application.pdb
+C:\Users\Álvaro Morales\Desktop\Develop\.Net\CQRS\TestCQRS\TestCQRS.Application\obj\Debug\net6.0\TestCQRS.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Álvaro Morales\Desktop\Develop\.Net\CQRS\TestCQRS\TestCQRS.Application\obj\Debug\net6.0\TestCQRS.Application.AssemblyInfoInputs.cache
+C:\Users\Álvaro Morales\Desktop\Develop\.Net\CQRS\TestCQRS\TestCQRS.Application\obj\Debug\net6.0\TestCQRS.Application.AssemblyInfo.cs
+C:\Users\Álvaro Morales\Desktop\Develop\.Net\CQRS\TestCQRS\TestCQRS.Application\obj\Debug\net6.0\TestCQRS.Application.csproj.CoreCompileInputs.cache
+C:\Users\Álvaro Morales\Desktop\Develop\.Net\CQRS\TestCQRS\TestCQRS.Application\obj\Debug\net6.0\TestCQRS.Application.dll
+C:\Users\Álvaro Morales\Desktop\Develop\.Net\CQRS\TestCQRS\TestCQRS.Application\obj\Debug\net6.0\ref\TestCQRS.Application.dll
+C:\Users\Álvaro Morales\Desktop\Develop\.Net\CQRS\TestCQRS\TestCQRS.Application\obj\Debug\net6.0\TestCQRS.Application.pdb
